@@ -1,0 +1,8 @@
+[package]
+name = "rust_decompress_zip"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zip = "2.2.0"
+zip-extract = "0.2.1"
